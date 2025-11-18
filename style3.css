@@ -17,7 +17,7 @@ p{
   padding: 40px;
     font-family: "Merriweather Sans", sans-serif;
     background-color:  #ffffff80;
-    width: 35%;
+    width: 50%;
     border-radius: 21px;
 }
 
@@ -35,3 +35,4 @@ body{
   transform: translate(-50%, -50%);
 
 }
+
