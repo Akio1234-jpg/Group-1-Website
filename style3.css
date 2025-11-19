@@ -33,4 +33,10 @@ body{
   text-align: center;
 }
 
+@media (max-width: 600px) {
+.text{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+}
 
