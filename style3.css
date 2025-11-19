@@ -24,7 +24,7 @@ p{
 }
 
 .video {
-width: 350px;
+width: 150px;
 }
 
 body{
@@ -38,11 +38,15 @@ body{
 }
 
 @media (max-width: 600px) {
+
+  .video {
+width: 100px;
+}
 .text{
   margin-left: 5%;
   margin-right: 5%;
-  width: 175px; 
 }
 }
+
 
 
