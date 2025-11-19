@@ -23,6 +23,10 @@ p{
     border-radius: 21px;
 }
 
+.video {
+width: 350px;
+}
+
 body{
   background-image: url('sophie.jpg');
   background-repeat: no-repeat;
@@ -37,6 +41,8 @@ body{
 .text{
   margin-left: 5%;
   margin-right: 5%;
+  width: 175px; 
 }
 }
+
 
