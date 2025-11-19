@@ -40,13 +40,14 @@ body{
 @media (max-width: 600px) {
 
   .video {
-width: 250px;
+width: 200px;
 }
 .text{
   margin-left: 5%;
   margin-right: 5%;
 }
 }
+
 
 
 
