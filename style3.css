@@ -17,9 +17,7 @@ p{
   padding: 40px;
     font-family: "Merriweather Sans", sans-serif;
     background-color:  #ffffff80;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 1%;
+   margin: 1% 10%
     border-radius: 21px;
 }
 
@@ -40,13 +38,14 @@ body{
 @media (max-width: 600px) {
 
   .video {
-width: 200px;
+width: 225px;
 }
 .text{
   margin-left: 5%;
   margin-right: 5%;
 }
 }
+
 
 
 
